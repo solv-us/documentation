@@ -1,9 +1,11 @@
 # solv.us
 
 ## What is solv.us?
-Solv.us is a collection of open-source, web-based & code-oriented software tools for VJing & controlling interactive installations. It enabled you to use existing frameworks like Three.js in the context of live events, both physical and online.
+Solv.us is a collection of open-source, web-based & code-oriented software tools for VJing & controlling interactive installations. It enabled you to use the power of the web and existing frameworks for it like Three.js in the context of live events, both in the physical word and online.
 
+<div style="text-align:center">
 ![A diagram of solv.us' elements: A server, User Interface, Stages and connected clients](diagram.png)
+</div>
 
 ### Server
 
@@ -18,7 +20,7 @@ Clients are instantiations of the stages. Think of it as the spectators.
 
 
 ## Getting started
-- **Set up a [solv.us server](https://github.com/solv-us/server):** To do this, follow the instructions in the [server repository](https://github.com/solv-us/server)
+- **Set up a [solv.us server](https://github.com/solv-us/server):** To do this, follow the instructions in the [server repository](https://github.com/solv-us/server).
 - **Open the user interface:** You can use the online version at [ui.sol.vus](ui.sol.vus), or download it from the [UI repository](https://github.com/solv-us/ui) and run it locally if you don't want to rely on an internet connection.
 - Check out the examples, add Midi Devices, and start coding ✨
 
