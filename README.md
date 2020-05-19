@@ -4,7 +4,7 @@
 Solv.us is a collection of open-source, web-based & code-oriented software tools for VJing & controlling interactive installations. It enabled you to use the power of the web and existing frameworks for it like Three.js in the context of live events, both in the physical word and online.
 
 <div style="align:center">
-<img alt="A diagram of solv.us' elements: A server, User Interface, Stages and connected clients" src="diagram.png"/>
+<img alt="A diagram of solv.us' elements: A server, User Interface, Stages and connected clients" src="diagram.png">
 </div>
 
 ### Server
