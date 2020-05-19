@@ -1,7 +1,7 @@
 # solv.us
 
 ## What is solv.us?
-Solv.us is a collection of open-source, web-based & code-oriented software tools for VJing & controlling interactive installations. It enabled you to use the power of the web and existing frameworks for it like Three.js in the context of live events, both in the physical word and online.
+Solv.us is a collection of open-source, web-based & code-oriented software tools for VJing & controlling interactive installations. It enabled you to use the power of the web and existing frameworks for it like [three.js](https://threejs.org) in the context of live events, both in the physical word and online.
 
 <p align="center">
 <img alt="A diagram of solv.us' elements: A server, User Interface, Stages and connected clients" src="diagram.png">
@@ -24,6 +24,8 @@ Clients are instantiations of the stages. Think of it as the spectators.
 - **Open the user interface:** You can use the online version at [ui.sol.vus](ui.sol.vus), or download it from the [UI repository](https://github.com/solv-us/ui) and run it locally if you don't want to rely on an internet connection.
 - Check out the examples, add Midi Devices, and start coding ✨
 
+[Read the full getting-started here](Getting_Started.md).
+
 ## Why?
 Working as a creative webdeveloper, I made the following observations:
 
@@ -40,9 +42,9 @@ solv.us is designed as a general framework for these requirements, so you can fo
 
 ## Design Choices
 
-### 
+### AA
 
 ### UI
-The colors are chosen to be legible in the dark.
-The font is (https://github.com/tonsky/FiraCode)[FiraCode]
+The colors are chosen to be easy on the eyes in a dark environment, while still highlighting the important elements like buttons with enough contrast.
 
+The used font is [FiraCode](https://github.com/tonsky/FiraCode), a monospaced font with ligatures for easy readability. 
