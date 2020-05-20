@@ -42,8 +42,6 @@ solv.us is designed as a general framework for these requirements, so you can fo
 
 ## Design Choices
 
-### AA
-
 ### UI
 The colors are chosen to be easy on the eyes in a dark environment, while still highlighting the important elements like buttons with enough contrast.
 
