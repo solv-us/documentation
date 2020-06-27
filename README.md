@@ -10,7 +10,7 @@ Solv.us is a collection of open-source, web-based & code-oriented software tools
 ### Server
 
 ### User Interface
-The solv.us UI is the interface where you set up and control your project. It contains a workspace that is customizable with the elements that you need for your performance. 
+The solv.us UI is the interface where you set up and control your project. It contains a workspace that is customizable with the elements that you need for your performance. The colors are chosen to be easy on the eyes in a dark environment, while still highlighting the important elements like buttons with enough contrast. The used font is [FiraCode](https://github.com/tonsky/FiraCode), a monospaced font with ligatures for easy readability. 
 
 ### Stages
 
@@ -18,13 +18,6 @@ The solv.us UI is the interface where you set up and control your project. It co
 ### Clients
 Clients are instantiations of the stages. Think of it as the spectators.
 
-
-## Getting started
-- **Set up a [solv.us server](https://github.com/solv-us/server):** To do this, follow the instructions in the [server repository](https://github.com/solv-us/server).
-- **Open the user interface:** You can use the online version at [ui.sol.vus](ui.sol.vus), or download it from the [UI repository](https://github.com/solv-us/ui) and run it locally if you don't want to rely on an internet connection.
-- Check out the examples, add Midi Devices, and start coding ✨
-
-[Read the full getting-started here](Getting_Started.md).
 
 ## Why?
 Working as a creative webdeveloper, I made the following observations:
@@ -40,9 +33,23 @@ More and more large-scale online events are taking place, such as Travis Scottt'
 solv.us is designed as a general framework for these requirements, so you can focus on the fun parts of creative coding and use it in a live environment.
 
 
-## Design Choices
+# PMI
++ I'm happy with the end-result, and used it in the seminar that followed Project Vrij. It proved to be very useful there.
++ I learned a lot about releasing open-source software, especially about versioning, package management & bundling, and npm. 
++ I managed to stay (mostly) motivated and productive despite the circumstances
 
-### UI
-The colors are chosen to be easy on the eyes in a dark environment, while still highlighting the important elements like buttons with enough contrast.
+- The orginal scope of the project was too large / I was too optimistic about how much I could do on my own in these months.
+- Corona limited the more physical manifestations/usage of the software.
+- Writing clear documentation to help other developers understand your project was less harder than I though it would be. 
 
-The used font is [FiraCode](https://github.com/tonsky/FiraCode), a monospaced font with ligatures for easy readability. 
+i I am interested in what other people working in the creative development field think about the project
+i 
+
+
+## Team 26
+Daan Korssen (Developer/Designer), student no. 3032555
+
+# Planning
+
+# Process
+
