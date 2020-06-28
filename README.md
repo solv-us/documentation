@@ -49,14 +49,38 @@ i I'm curious to see how this software is going to change my work in the future
 ## Team 26
 Daan Korssen (Developer/Designer), student no. 3032555
 
-# Planning
-##Week 1
-##Week 2
-##Week 3
-##Week 4
-##Week 5
-##Week 6
+# Planning & Proces
+## Week 1
+- Created GitHub organization
+- Set up repo structure
+- Thinking out design philosophy
 
+## Week 2
+- Converted all old code for the server to TypeScript
+- Refractored all old code into classes
+- Experiments ( MIDI input -> Colors on a LED strip)
+- Research into Resolume / Touchdesigner 
 
-# Process
+## Week 3
+- Switched to a HTTPS server with auto-certificate generation
+- Drag & Drop system for the UI
+- Attempt at window management: failed
+- Working Events on the server side
+
+## Week 4
+- Attempt 2 at window management
+- New design system: colors, font, buttons, inputs, margins, paddings, etc.
+- UI Components for event management, stage manager, & connected client windows
+
+## Week 5
+- Finished MIDI clock on the server side
+- Finished MIDI mapping on the server side
+- Updated solv.us landing page with new design system
+
+## Week 7
+- Redesigned standby screen for stages
+- Finished 'client' code and released it as NPM package.
+
+## Week 8
+- Latest fixes, Documentation, Itch.io page, Video.
 
