@@ -38,21 +38,6 @@ Stages are virtual or physical places that can contain different content and cod
 ### Clients
 Clients are instantiations of the stages. Think of it as the spectators. This can be a browser with a stage webpage opened, or a hardware device listening to a stage.
 
-# PMI
-+ I'm happy with the end-result, and used it in the seminar that followed Project Vrij. It proved to be useful there.
-+ I learned a lot about releasing open-source software, especially about versioning, package management & bundling, and npm. 
-+ I managed to stay (mostly) motivated and productive despite the circumstances
-
-- The orginal scope of the project was too large / I was too optimistic about how much I could do on my own in these months.
-- Corona limited the more physical manifestations/usage of the software.
-- Writing clear documentation to help other developers understand your project was less harder than I though it would be. 
-
-i I am interested in what other people working in the creative development field think about the project
-i I'm curious to see how this software is going to change my work in the future 
-
-## Team 26
-Daan Korssen (Developer/Designer), student no. 3032555
-
 # Planning & Proces
 ## Week 1
 - Created GitHub organization
@@ -87,4 +72,21 @@ Daan Korssen (Developer/Designer), student no. 3032555
 
 ## Week 8
 - Latest fixes, Documentation, Itch.io page, Video.
+
+
+# PMI
++ I'm happy with the end-result, and used it in the seminar that followed Project Vrij. It proved to be useful there.
++ I learned a lot about releasing open-source software, especially about versioning, package management & bundling, and npm. 
++ I managed to stay (mostly) motivated and productive despite the circumstances
+
+- The orginal scope of the project was too large / I was too optimistic about how much I could do on my own in these months.
+- Corona limited the more physical manifestations/usage of the software.
+- Writing clear documentation to help other developers understand your project was less harder than I though it would be. 
+
+i I am interested in what other people working in the creative development field think about the project
+i I'm curious to see how this software is going to change my work in the future 
+
+
+## Team 26
+Daan Korssen (Developer/Designer), student no. 3032555
 
